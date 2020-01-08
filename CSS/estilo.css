@@ -1,0 +1,15 @@
+
+body{
+	background: #ECF0F1;
+}
+label{
+	font-weight: bold;
+}
+select{
+	width: 100%;
+}
+#contenedor{
+	background: #CCCCCC;
+	width: 500px;
+	margin: 100px 0 0 400px;
+}
